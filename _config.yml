@@ -1,3 +1,9 @@
 theme: jekyll-theme-leap-day
 title: Christian's Blog
+author:
+  name : Christian J. Sutton
+  email : christian.sutton@gmail.com
+  github : cjsutton77
+  feedburner : nil
+
 description: Please keep an eye on here for posts on geophysics, machine learning and programming.
