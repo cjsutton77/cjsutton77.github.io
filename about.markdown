@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p>My name is Christian.  I'm a software engineer in the energy industry. Prior to my current role I processed seismic data (and <a href="https://library.seg.org/doi/10.1190/segam2021-3583063.1">wrote AI enabled machine learning systems for it</a>!).  Prior to <em>that</em> I was working on a PhD: research into ensemble weather forcasts (and how to make them better by inclusion of surface conditions!).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm interested in history (ancient & modern). egyptology, Catholicism, physics & math!  and running.  and cats.
+</p>
